@@ -6,4 +6,12 @@ Numero push minimo: 4
 Consigli del giorno:
 scriviamo sempre prima dei commenti in italiano per capire cosa vogliamo fare
 proviamo ad immaginare le operazioni che vogliamo far svolgere al nostro programma così come lo faremmo "a mano"
-Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
+Buon lavoro e buon divertimento! 
+
+divisione del problema :
+indico la variabile chiamandola i e le assegno il valore 1;
+inizializzo un ciclo for per generare i numeri da 1 a 100;
+utilizzi if  per dire: che se tutti i numeri  sono multipli  sia di 3 che 5  bisogna visualizzare la scritta fizzbuzz.
+utilizzo else if : ma  se i multipli  sono solo di 3 devo apparire in console con la scritta fizz
+riutilizzi else if : ma  se i multipli  sono solo di 5 devo apparire in console con la scritta buzz
+infine con else indico che tutti i numeri che non sono multipli ne di 3 ne di 5 devono apparire come numeri.

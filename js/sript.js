@@ -1,7 +1,4 @@
 // inizio esercizio
-// VARIABILI
-let i = 1;
-
 
 // inizializzazione
 // indico il ciclo:  su  tutti i numeri  che sono inferiori o uguali a 100 il ciclo si ripete, finchè la condizione resta vera;
@@ -23,7 +20,6 @@ for(let i= 1; i <=100; i++){
     console.log("Buzz");
      // indico che i multipli di tre vengano denominati buzz
     }
-    
     else{
         console.log(i);
        }
